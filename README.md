@@ -1,4 +1,4 @@
-This repository contains my solution for nandgame.com.
+
 combined memory
 <img width="1975" alt="Combined_Memory" src="https://user-images.githubusercontent.com/101899906/200980190-7ec88444-6779-4b0a-94d6-47615a999230.png">
 instruction decoder
